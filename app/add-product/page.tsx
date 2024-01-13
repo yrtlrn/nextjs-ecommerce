@@ -67,3 +67,9 @@ export default function AddProductPage() {
     </div>
   );
 }
+
+/*
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus repellat velit, quam nobis molestias ipsum, repudiandae consequuntur provident quasi nesciunt harum sapiente dolorum ipsa illum soluta esse ea perspiciatis consequatur!
+
+
+*/
